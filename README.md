@@ -1,2 +1,1 @@
-# HEALTHESSENTIALS
-HEALTHESSENTIALS
+healthessentials.github.bio
